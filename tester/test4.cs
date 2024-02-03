@@ -45,7 +45,7 @@ namespace tester
                 Console.WriteLine("Area = {0:N2}",Math.PI*Math.Pow(radius,2));
 
             }
-            else Console.WriteLine("Selected number must be 1-3");
+            else Console.WriteLine("Selected number must be 1 - 3");
 		}
 	}
 }
